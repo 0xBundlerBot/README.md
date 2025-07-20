@@ -13,7 +13,9 @@
   [![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3.3-38bdf8)](https://tailwindcss.com/)
+  <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
+
   
 </div>
 
- <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
+ 
