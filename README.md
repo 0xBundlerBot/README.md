@@ -6,7 +6,7 @@
 
   ### Token Deployment & Management Platform
   
-  **[🌐 Visit Website](https://www.solanabundler.app/)**
+  **[🌐 Visit Website](https://www.bundlerbot.fun/)**
 
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
   [![Solana](https://img.shields.io/badge/Solana-v1.14-blueviolet)](https://solana.com/)
